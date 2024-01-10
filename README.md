@@ -14,4 +14,4 @@ If your client crash when you tried to play, install this [libgg.so](https://cdn
 The server is in a very early state. Right now, it is NOT recommended to run this on a production environment. Please not open issues about missing features, i'm well aware of this.
 
 ### Notes
-Maybe i will remake the client. I need time lmao. I'm working on the v23 update maybe i never work on this.
+Maybe i will remake the client. I need time lmao. I'm working on the v23 update, maybe i never work on this.
