@@ -8,8 +8,8 @@ Just edit the IP in the frida-gadget config (```/lib/armeabi-v7a/libgg.config.so
 ```{"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP","relocate":true}}}```
 
 ### For The Crash's
-If your client crash when you tried to play, install this [libgg.so] and replace with the old one.
-(
+If your client crash when you tried to play, install this [libgg.so](https://cdn.discordapp.com/attachments/919530733507321896/1192898099820109947/libgg.so?ex=65aabfed&is=65984aed&hm=21c9d883c8a26f1803851cd6985288eb088078e6cdb441b0ca26ce4864339a5a&). and replace with old one
+
 ### Friendly reminder
 The server is in a very early state. Right now, it is NOT recommended to run this on a production environment. Please not open issues about missing features, i'm well aware of this. 
 
