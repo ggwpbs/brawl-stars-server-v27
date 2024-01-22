@@ -1,4 +1,4 @@
-# ObjectBrawl (Fixed!)
+# ObjectBrawl (Fixed Main!)
 A first open source Python 3.8 Brawl Stars Server for version 27!
 ![ScreenShot](https://cdn.discordapp.com/attachments/728556050285985823/765908293385715762/Screenshot_20201014-150540_BS_v27.jpg) 
 
